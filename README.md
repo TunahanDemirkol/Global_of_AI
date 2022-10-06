@@ -1,2 +1,2 @@
-# Global_of_AI
-“UrbanSounds8K” veri setini kullanarak şehirlerde duyulan seslerin sınıflandırılması.
+# Global_of_AI_Urban8k_Deep_Learning
+“UrbanSounds8K” veri setini kullanarak şehirlerde duyulan seslerin sınıflandırılmasıyla ilgili bir proje yapıldı. Bu projede hedefimiz, derin öğrenme algoritmalarını kullanarak yapay zeka modeli hazırlamaktır, ses dosyalarından spectrogram oluşturuldu ve bunlar ait oldukları kategorilere göre kayıt edilidi . Daha sonra bu görüntülere önişleme yaparak CNN modeli hazırlandı ve bu modeli eğitildi. Hiperparametre optimizasyonu yapıldı.
